@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Ai & Machine learning
 - 💞️ I’m looking to collaborate on Code Review & Collaboration
-- 📫 How to reach me ricoaprillananda.com
+- 📫 How to reach me ricoaprillananda@gmail.com
 - 😄 Pronouns: Rico
 - ⚡ Fun fact: I like Everything 
 
