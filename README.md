@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Ai & Machine learning
 - 💞️ I’m looking to collaborate on Code Review & Collaboration
 - 📫 How to reach me ricoaprillananda@gmail.com
-- 😄 Pronouns: Rico
-- ⚡ Fun fact: I like Everything 
+- 😄 Pronouns: Rico 
 
 <!---
 ricoapril33z/ricoapril33z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
